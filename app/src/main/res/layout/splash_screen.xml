@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal">
+
+    <TextView
+        android:text="ABV-IIITM\npresents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="@android:color/white"
+        android:textStyle="normal|bold"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="25dp"
+        android:textAlignment="center"/>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo"
+        android:layout_marginBottom="20dp"
+        />
+
+    <TextView
+        android:text="@string/app_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="@android:color/white"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:textAllCaps="true" />
+
+</LinearLayout>

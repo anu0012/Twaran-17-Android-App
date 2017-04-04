@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "681733329740",
+    "firebase_url": "https://twaran17-a8dcb.firebaseio.com",
+    "project_id": "twaran17-a8dcb",
+    "storage_bucket": "twaran17-a8dcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681733329740:android:a97b067aec126c03",
+        "android_client_info": {
+          "package_name": "com.darkguyy.anuragsharma.twaran2k17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681733329740-9onfo9ho0r5677vcq989eiqnpem55opq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyn0XF3-p19aq6JM6WIYdOx5Jp8DFPNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
